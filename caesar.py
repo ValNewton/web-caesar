@@ -31,6 +31,6 @@ def encrypt(text,rot):
         new_text = new_text + new_char
     return new_text
 
-text = input("Type a message:")
-rot = int(input("Rotate by:")
-print(encrypt(text, rot))
+#text = input("Type a message:")
+#rot = int(input("Rotate by:")
+#print(encrypt(text, rot))
